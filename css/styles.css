@@ -628,6 +628,10 @@ progress {
   content: "— ";
 }
 
+.proj-img {
+  padding-right: 1rem;
+}
+
 .img-fluid {
   max-width: 100%;
   height: auto;
